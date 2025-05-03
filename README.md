@@ -15,6 +15,8 @@ manage customers,
 
 The application will be running on `http://localhost:2025`
 
+if you want a with dependancy then try these - 
+https://drive.google.com/file/d/1snDGpj85mPoHROa5bh_hKquutII56a29/view?usp=sharing
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
@@ -287,10 +289,6 @@ Add the following environment variables to your `.env` file:
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
-
-
-if you want a with dependancy then try these - 
-https://drive.google.com/file/d/1snDGpj85mPoHROa5bh_hKquutII56a29/view?usp=sharing
 
 ## Dependencies
 
