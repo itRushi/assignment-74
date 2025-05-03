@@ -75,23 +75,6 @@ Contact me if any dependency or command fails — I’ll help!
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 
-## Dependencies
-
-- **express**: Web framework for Node.js
-- **mongoose**: MongoDB object modeling tool
-- **jsonwebtoken (JWT)**: Authentication middleware using JSON Web Tokens
-- **bcryptjs**: Password hashing for user authentication
-- **validator**: Email and data validation
-- **moment**: Date manipulation library
-- **dotenv**: Environment variable management
-                PORT="2025"
-                MONGODB_URI="mongodb://localhost:27017/credikhaata"
-                JWT_SECRET="networthsecretkey"
-
-- **dotenv**: Manage sensitive information like DB connection strings, JWT secrets, etc.
-
---------------------------------------------------------------------
---------------------------------------------------------------------
 
 ## OUTPUT OF THESE ASSIGNMENT 
 
@@ -301,6 +284,28 @@ Add the following environment variables to your `.env` file:
 • JWT Auth
 • Moment.js or date-fns for due date logic
 • Mongoose (if MongoDB) with clear schema relationships
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
+
+if you want a with dependancy then try these - 
+https://drive.google.com/file/d/1snDGpj85mPoHROa5bh_hKquutII56a29/view?usp=sharing
+
+## Dependencies
+
+- **express**: Web framework for Node.js
+- **mongoose**: MongoDB object modeling tool
+- **jsonwebtoken (JWT)**: Authentication middleware using JSON Web Tokens
+- **bcryptjs**: Password hashing for user authentication
+- **validator**: Email and data validation
+- **moment**: Date manipulation library
+- **dotenv**: Environment variable management
+                PORT="2025"
+                MONGODB_URI="mongodb://localhost:27017/credikhaata"
+                JWT_SECRET="networthsecretkey"
+
+- **dotenv**: Manage sensitive information like DB connection strings, JWT secrets, etc.
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
