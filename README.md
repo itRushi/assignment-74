@@ -80,6 +80,35 @@ Contact me if any dependency or command fails — I’ll help!
 
 ## OUTPUT OF THESE ASSIGNMENT 
 
+1. User Ragistered Sucessfully
+![image](https://github.com/user-attachments/assets/9a8ed12f-0e70-422a-9315-e8c58f018b3a)
+
+
+2. Database
+ ![image-1](https://github.com/user-attachments/assets/05ba4e11-4a72-4fe3-a124-e797a3285911)
+
+
+3.Login Sucessfully token generated
+
+![image-2](https://github.com/user-attachments/assets/9ffd2b14-6059-4d31-ba06-76e4e1cf1aaf)
+
+
+
+4. Ragister and login route
+![image-3](https://github.com/user-attachments/assets/890957dd-8955-441d-8424-7aaf855f60cc)
+
+![image-4](https://github.com/user-attachments/assets/fb47ec4f-dba1-4405-a9b3-3ca1055e3fd6)
+
+![image-5](https://github.com/user-attachments/assets/6a1fdc3c-6d33-4aad-878c-f3bbe2518224)
+
+![image-6](https://github.com/user-attachments/assets/f9c092e5-e5d8-454f-8869-eabc026b1d8f)
+
+![image-7](https://github.com/user-attachments/assets/efd11ba0-0532-4f84-a4e3-8aca71e30fb8)
+
+
+
+
+
 ## API Endpoints
 ### **User Authentication**
 
